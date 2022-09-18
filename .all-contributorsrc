@@ -1,31 +1,5 @@
 {
   "files": [
-    "README.md"
+    "profile/README.md"
   ],
-  "imageSize": 100,
-  "commit": false,
-  "commitConvention": "angular",
-  "contributors": [
-    {
-      "login": "EvanHite",
-      "name": "EvanHite",
-      "avatar_url": "https://avatars.githubusercontent.com/u/87779811?v=4",
-      "profile": "https://github.com/EvanHite",
-      "contributions": [
-        "code",
-        "design",
-        "ideas",
-        "question",
-        "bug",
-        "business",
-        "projectManagement"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": true,
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "projectName": ".github",
-  "projectOwner": "BetterSubtitles"
 }
